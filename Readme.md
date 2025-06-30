@@ -493,7 +493,7 @@ text
 
 For issues, questions, or contributions:
 
-- **Email**: [dhruvgaur1123@gmail.com]
+- **Email**: [ishanyash1919@gmail.com]
 - **GitHub Issues**: [Repository Issues Page]
 
 **Built with ❤️ for the Document Intelligence Platform Assignment**
